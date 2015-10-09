@@ -1,5 +1,7 @@
 {
     "require": {
-        "sebastiansulinski/string-converter": "^1.1"
+        "sebastiansulinski/string-converter": "^1.1",
+        "monolog/monolog": "^1.17",
+        "raveren/kint": "^1.0"
     }
 }
