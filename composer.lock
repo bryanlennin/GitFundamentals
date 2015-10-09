@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "e0ac1b62888f028b6b1a7a4027937934",
+    "content-hash": "86cdf998fe16a3b1162c2e4ebbd0aa1c",
+    "packages": [
+        {
+            "name": "sebastiansulinski/string-converter",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastiansulinski/string-converter.git",
+                "reference": "387c9fd0a61c0fdb7e10d753f2c81d99ba5f341b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastiansulinski/string-converter/zipball/387c9fd0a61c0fdb7e10d753f2c81d99ba5f341b",
+                "reference": "387c9fd0a61c0fdb7e10d753f2c81d99ba5f341b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.7.*@dev"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SSD\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sebastian Sulinski",
+                    "email": "info@ssdtutorials.com"
+                }
+            ],
+            "description": "Convert between snake and camel case, hyphen to camel case, to constant name, ucfirst, ucwords",
+            "time": "2015-04-20 15:35:34"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

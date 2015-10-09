@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sebastiansulinski/string-converter": "^1.1"
+    }
+}
